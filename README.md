@@ -218,64 +218,62 @@ But the echoes of dragon wings still whispered in the wind, hinting that another
 - Reward Orin with gold equal to the dragon’s rank multiplied by 5.
 
 ## Excpected Output
-Berserker Brew does not exist in the shop!
-
-Darius does not have enough gold to buy Blazebringer!
-
-Darius has purchased Obsidian Slayer! 
-Darius has purchased Celestial Armor!
-Darius has purchased Phoenix Draught!
-Darius is not using any kind of sword!
-Darius does not have Inferno Blade in the inventory!
-Darius is equipping Obsidian Slayer!
-Darius does not have Dragonbone Plate in the inventory!
-Darius is equipping Celestial Armor!
-Darius has successfully blocked the dragon's attack!
-Dealing 250 damage to Obsidian Dreadwing! You need 4750 more damage to defeat the dragon!
-Darius has successfully blocked the dragon's attack!
-Obsidian Dreadwing has buffed his abilities!
-Darius has enhanced Obsidian Slayer!
-Darius does not have enough gold to enhance the weapon!
-Dealing 40 damage to Darius! Obsidian Dreadwing need 960 more damage to defeat the knight!
-Dealing 40 damage to Darius! Obsidian Dreadwing need 920 more damage to defeat the knight!
-Dealing 40 damage to Darius! Obsidian Dreadwing need 880 more damage to defeat the knight!
-Dealing 40 damage to Darius! Obsidian Dreadwing need 840 more damage to defeat the knight!
-Darius use Phoenix Draught! (Health: 940)
-Darius earned 500 gold!
-Darius has purchased Phoenix Draught!
-Darius's inventory is full! Please upgrade the inventory!
-Darius does not have enough gold to upgrade 10 more inventory!
-Darius has successfully upgraded 1 more inventory!
-Darius does not have Inferno Blade in his inventory!
-Darius has sold Celestial Armor for 160 gold!
-Darius earned 160 gold!
-Dealing 250 damage to Darius! Obsidian Dreadwing need 690 more damage to defeat the knight!
-Dealing 250 damage to Darius! Obsidian Dreadwing need 440 more damage to defeat the knight!
-Dealing 250 damage to Darius! Obsidian Dreadwing need 190 more damage to defeat the knight!
-Dealing 190 damage to Darius! Darius has been defeated by Obsidian Dreadwing!
-Darius already died!
-Orin has purchased Blazebringer!
-Orin has purchased Celestial Armor!
-Orin is equipping Blazebringer!
-Orin is equipping Celestial Armor!
-Obsidian Dreadwing has buffed his abilities!
-Obsidian Dreadwing has buffed his abilities!
-Dealing 500 damage to Obsidian Dreadwing! You need 5821 more damage to defeat the dragon!
-Dealing 152 damage to Orin! Obsidian Dreadwing need 848 more damage to defeat the knight!
-Orin has successfully blocked the dragon's attack!
-Dealing 152 damage to Orin! Obsidian Dreadwing need 696 more damage to defeat the knight!
-Orin has enhanced Blazebringer!
-Dealing 550 damage to Obsidian Dreadwing! You need 5271 more damage to defeat the dragon!
-Dealing 550 damage to Obsidian Dreadwing! You need 4721 more damage to defeat the dragon!
-Dealing 550 damage to Obsidian Dreadwing! You need 4171 more damage to defeat the dragon!
-Dealing 550 damage to Obsidian Dreadwing! You need 3621 more damage to defeat the dragon!
-Dealing 550 damage to Obsidian Dreadwing! You need 3071 more damage to defeat the dragon!
-Dealing 550 damage to Obsidian Dreadwing! You need 2521 more damage to defeat the dragon!
-Dealing 550 damage to Obsidian Dreadwing! You need 1971 more damage to defeat the dragon!
-Dealing 550 damage to Obsidian Dreadwing! You need 1421 more damage to defeat the dragon!
-Dealing 550 damage to Obsidian Dreadwing! You need 871 more damage to defeat the dragon!
-Dealing 550 damage to Obsidian Dreadwing! You need 321 more damage to defeat the dragon!
-Dealing 321 damage to Obsidian Dreadwing! Obsidian Dreadwing has been defeated by Orin!
-Orin earned 5000 gold by killing the dragon!
-Obsidian Dreadwing already died!
+    Berserker Brew does not exist in the shop!
+    Darius does not have enough gold to buy Blazebringer!
+    Darius has purchased Obsidian Slayer! 
+    Darius has purchased Celestial Armor!
+    Darius has purchased Phoenix Draught!
+    Darius is not using any kind of sword!
+    Darius does not have Inferno Blade in the inventory!
+    Darius is equipping Obsidian Slayer!
+    Darius does not have Dragonbone Plate in the inventory!
+    Darius is equipping Celestial Armor!
+    Darius has successfully blocked the dragon's attack!
+    Dealing 250 damage to Obsidian Dreadwing! You need 4750 more damage to defeat the dragon!
+    Darius has successfully blocked the dragon's attack!
+    Obsidian Dreadwing has buffed his abilities!
+    Darius has enhanced Obsidian Slayer!
+    Darius does not have enough gold to enhance the weapon!
+    Dealing 40 damage to Darius! Obsidian Dreadwing need 960 more damage to defeat the knight!
+    Dealing 40 damage to Darius! Obsidian Dreadwing need 920 more damage to defeat the knight!
+    Dealing 40 damage to Darius! Obsidian Dreadwing need 880 more damage to defeat the knight!
+    Dealing 40 damage to Darius! Obsidian Dreadwing need 840 more damage to defeat the knight!
+    Darius use Phoenix Draught! (Health: 940)
+    Darius earned 500 gold!
+    Darius has purchased Phoenix Draught!
+    Darius's inventory is full! Please upgrade the inventory!
+    Darius does not have enough gold to upgrade 10 more inventory!
+    Darius has successfully upgraded 1 more inventory!
+    Darius does not have Inferno Blade in his inventory!
+    Darius has sold Celestial Armor for 160 gold!
+    Darius earned 160 gold!
+    Dealing 250 damage to Darius! Obsidian Dreadwing need 690 more damage to defeat the knight!
+    Dealing 250 damage to Darius! Obsidian Dreadwing need 440 more damage to defeat the knight!
+    Dealing 250 damage to Darius! Obsidian Dreadwing need 190 more damage to defeat the knight!
+    Dealing 190 damage to Darius! Darius has been defeated by Obsidian Dreadwing!
+    Darius already died!
+    Orin has purchased Blazebringer!
+    Orin has purchased Celestial Armor!
+    Orin is equipping Blazebringer!
+    Orin is equipping Celestial Armor!
+    Obsidian Dreadwing has buffed his abilities!
+    Obsidian Dreadwing has buffed his abilities!
+    Dealing 500 damage to Obsidian Dreadwing! You need 5821 more damage to defeat the dragon!
+    Dealing 152 damage to Orin! Obsidian Dreadwing need 848 more damage to defeat the knight!
+    Orin has successfully blocked the dragon's attack!
+    Dealing 152 damage to Orin! Obsidian Dreadwing need 696 more damage to defeat the knight!
+    Orin has enhanced Blazebringer!
+    Dealing 550 damage to Obsidian Dreadwing! You need 5271 more damage to defeat the dragon!
+    Dealing 550 damage to Obsidian Dreadwing! You need 4721 more damage to defeat the dragon!
+    Dealing 550 damage to Obsidian Dreadwing! You need 4171 more damage to defeat the dragon!
+    Dealing 550 damage to Obsidian Dreadwing! You need 3621 more damage to defeat the dragon!
+    Dealing 550 damage to Obsidian Dreadwing! You need 3071 more damage to defeat the dragon!
+    Dealing 550 damage to Obsidian Dreadwing! You need 2521 more damage to defeat the dragon!
+    Dealing 550 damage to Obsidian Dreadwing! You need 1971 more damage to defeat the dragon!
+    Dealing 550 damage to Obsidian Dreadwing! You need 1421 more damage to defeat the dragon!
+    Dealing 550 damage to Obsidian Dreadwing! You need 871 more damage to defeat the dragon!
+    Dealing 550 damage to Obsidian Dreadwing! You need 321 more damage to defeat the dragon!
+    Dealing 321 damage to Obsidian Dreadwing! Obsidian Dreadwing has been defeated by Orin!
+    Orin earned 5000 gold by killing the dragon!
+    Obsidian Dreadwing already died!
 
