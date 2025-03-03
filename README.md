@@ -11,12 +11,12 @@
 - Achieve expected output
 - Maintain ***High Cohesion** and **Loose Coupling***
 
-# Preparation
+## Preparation
 Before working on this case, create all class names and attributes in the development environment 
 based on the ***class diagram***, then copy the ***Main class*** code into your workspace to facilitate easy 
 reference and testing.
 
-# Class Diagram
+## Class Diagram
 ### Shop Class
 ![image](https://github.com/user-attachments/assets/bef8a298-1270-4747-b22e-babd0730af78)
 
