@@ -219,8 +219,10 @@ But the echoes of dragon wings still whispered in the wind, hinting that another
 
 ## Excpected Output
 Berserker Brew does not exist in the shop!
+
 Darius does not have enough gold to buy Blazebringer!
-Darius has purchased Obsidian Slayer!
+
+Darius has purchased Obsidian Slayer! 
 Darius has purchased Celestial Armor!
 Darius has purchased Phoenix Draught!
 Darius is not using any kind of sword!
